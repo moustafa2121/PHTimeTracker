@@ -3,3 +3,5 @@ This is a time tracker usually for a 16 hours session (can be changed). The GUI 
 Usually one starts the session at the beginning of the day and picks whatever state that is needed. Clicking on the same state has no effect. The current state can be seen on the left side along with its current timer. The total time for each state in the current session can be seen on the right side. The long bar shows the time state on each state as a bar.
 
 Python modules required: pickle, pygame, os, sys
+
+![alt text](https://raw.githubusercontent.com/moustafa2121/PHTimeTracker/master/Sample.png)
