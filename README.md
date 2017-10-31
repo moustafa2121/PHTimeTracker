@@ -4,4 +4,4 @@ Usually one starts the session at the beginning of the day and picks whatever st
 
 Python modules required: pickle, pygame, os, sys
 
-![alt text](https://raw.githubusercontent.com/moustafa2121/PHTimeTracker/blob/master/Sample.PNG)
+![alt text](https://github.com/moustafa2121/PHTimeTracker/blob/master/Sample.PNG)
