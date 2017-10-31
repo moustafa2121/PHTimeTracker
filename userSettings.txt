@@ -1,0 +1,2 @@
+lastSession = None
+numberOfSessions = 0
